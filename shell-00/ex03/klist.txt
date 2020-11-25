@@ -1,0 +1,5 @@
+Credentials cache: API:491D4011-D35D-4D1A-A20F-5FF3C69E4E6B
+        Principal: sfournio@42LYON.FR
+
+  Issued                Expires               Principal
+Oct  5 10:00:10 2020  Oct  6 10:00:10 2020  krbtgt/42LYON.FR@42LYON.FR
